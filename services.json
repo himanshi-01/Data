@@ -1,0 +1,89 @@
+[
+    {
+        "id": 1,
+        "product_name": "Thandai Spice Latte",
+        "category": " strong coffee",
+        "category_id": 1,
+        "price": 760,
+        "image": "https://i.ibb.co/ch9WrLx/coffe1.jpg",
+        "service": "In-person"
+       
+    },
+    {
+        "id": 2,
+        "product_name": "Iced Thandai Spice Latte",
+        "category": "strong coffee",
+        "category_id": 1,
+        "price": 540,
+        "image": "https://i.ibb.co/j4bNxHD/coffe2.jpg",
+        "service": "In-person"
+        
+    },
+    {
+        "id": 3,
+        "product_name": "Cocoa Cloud Macchiato",
+        "category": "strong coffee",
+        "category_id": 2,
+        "price": 640,
+        "image": "https://i.ibb.co/18GX4hV/coffe3.jpg", 
+        "service": "Individual"
+        
+    },
+    {
+        "id": 4,
+        "product_name": "Iced Cocoa Cloud Macchiato",
+        "category": "light beverage",
+        "category_id": 2,
+        "price": 240,
+        "image":"https://i.ibb.co/H4VdLDH/coffe4.jpg",
+        "service": "Individual"
+        
+    },
+    {
+        "id": 5,
+        "product_name": "Salted Caramel Frappuccino®",
+        "category": "light beverage",
+        "category_id": 3,
+        "price": 500,
+        "image":"https://i.ibb.co/939JLZR/coffe5.jpg",
+        "service": "Individual"
+        
+    },
+    {
+        "id": 6,
+        "product_name": "Salted Caramel Cold Brew",
+        "category": "light beverage",
+        "category_id": 3,
+        "price": 350,
+        "image":"https://i.ibb.co/dMJy1g2/coffe6.jpg",
+        "service": "Individual"
+    },
+    {
+        "id": 7,
+        "product_name": "Iced Hazelnut Dutch Truffle Latte",
+        "category": "brain refresher",
+        "category_id": 3,
+        "price": 540,
+        "image":"https://i.ibb.co/wgnzThS/coffe7.jpg",
+        "service": "Individual"
+    },
+    {
+        "id": 8,
+        "product_name": "Thandai Spice Frappuccino®️",
+        "category": "brain refresher",
+        "category_id": 3,
+        "price": 850,
+        "image":"https://i.ibb.co/Wkfh7yH/coffe8.jpg",
+        "service": "Individual"
+    }
+    ,
+    {
+        "id": 9,
+        "product_name": "Green Tea Cream Frappuccino®",
+        "category": "brain refresher",
+        "category_id": 3,
+        "price": 900,
+        "image":"https://i.ibb.co/nCtgk91/starbucksgreen.jpg",
+        "service": "Individual"
+    }
+]

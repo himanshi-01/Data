@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "category": "strong coffee"
+    },
+    {
+        "id": 2,
+        "category": "light beverage"
+    },
+    {
+        "id": 3,
+        "category": "brain refresher"
+    }
+]
